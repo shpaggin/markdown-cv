@@ -107,16 +107,25 @@ __German__ (A2)
 ## References
 
 __Mgr. Jiří Motýl__
+
 Psycholog ve zdravotnictví
+
 Neurologická klinika - RS centrum, VFN Praha
+
 jiri.motyl@vfn.cz
 
 __Dr. Julia Korkman__
+
 Ābo Akademi, Turku, Finland
+
 European Association of Psychology and Law, President-Elect
+
 Julia.Korkman@abo.fi
 
 __Mgr. Jan Širůček, Ph.D.__
+
 Odborný asistent katedry psychologie
+
 Fakulta sociálních studií, Brno
-https://is.muni.cz/auth/mail/mail_posli?to=jan.sirucek%40mail.muni.cz
+
+jan.sirucek@mail.muni.cz
