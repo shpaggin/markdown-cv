@@ -22,12 +22,11 @@ __Faculty of Social Sciences, University of Turku, Turku, Finland__
 
 Erasmus exchange programme, psychology and neuroscience courses, including:
 
-* Neurology for Neuroscientists
-* Affective Neuroscience
-* Neuropharmacology
-* Consciousness and Brain
-* Cognitive Neuroscience
-* Forensic Psychological Assessment
+* _Neurology for Neuroscientists_
+* _Affective Neuroscience_
+* _Neuropharmacology_
+* _Consciousness and Brain_
+* _Cognitive Neuroscience_
 
 `2017-PRESENT`
 __Faculty of Social Studies, Masaryk University, Brno__
