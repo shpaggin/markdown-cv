@@ -6,13 +6,6 @@ title: David Voženílek - CV
 
 ## Education
 
-`2012-2014`
-__Faculty of Social Sciences, Charles Univerzity, Prague__
-
-Bachelor's program in Journalism and media studies
-
-Early termination (no degree)
-
 `2014-2017`
 __Faculty of Social Studies, Masaryk University, Brno__
 
@@ -22,9 +15,7 @@ Thesis topic: _Evaluation of online news credibility: the effect of need for cog
 
 The goal was to examine the relationship between need for cognition (NC), mainstream media credibility (KM) and evaluation of online news credibility
 
-Experimental design: article was framed as being either from a mainstream media source or a disinformation "alternative news" server
-
-Data analysis done in SPSS
+Experimental design: article was framed as being either from a mainstream media source or a disinformation "alternative news" server, data analysis was done in SPSS
 
 `2018-2019`
 __Faculty of Social Sciences, University of Turku, Turku, Finland__
