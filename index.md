@@ -1,91 +1,105 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: David Voženílek - CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
-
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
-
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+# David Voženílek
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2012-2014`
+__Faculty of Social Sciences, Charles Univerzity, Prague__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+Bachelor's program in Journalism and media studies
 
-- Sizar
+Early termination (no degree)
 
-`1667 - death`
-__Trinity College, Cambridge__
+`2014-2017`
+__Faculty of Social Studies, Masaryk University, Brno__
 
-- Fellow
+Bachelor's program in Psychology
 
+Thesis topic: _Evaluation of online news credibility: the effect of need for cognition and perceived mainstream news credibility_
 
+The goal was to examine the relationship between need for cognition (NC), mainstream media credibility (KM) and evaluation of online news credibility
 
-## Awards
+Experimental design: article was framed as being either from a mainstream media source or a disinformation "alternative news" server
 
-`2012`
-President, *Royal Society*, London, UK
+Data analysis done in SPSS
 
-Associate, *French Academy of Science*, Paris, France
+`2018-2019`
+__Faculty of Social Sciences, University of Turku, Turku, Finland__
 
+Erasmus exchange programme, psychology and neuroscience courses, including:
 
+* Neurology for Neuroscientists
+* Affective Neuroscience
+* Neuropharmacology
+* Consciousness and Brain
+* Cognitive Neuroscience
+* Forensic Psychological Assessment
 
-## Publications
+`2017-PRESENT`
+__Faculty of Social Studies, Masaryk University, Brno__
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+Master's program in Psychology
 
-### Journals
+Thesis topic: _Influence of patient-reported outcomes and brain atrophy on cognitive impairment in patients with multiple sclerosis_
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+Data from two clinical studies with patients with multiple sclerosis (MS), including MRI data, cognitive tests, QoL questionnaires etc.
 
-`1669`
-Lectiones opticæ.
+Previous research found differences ín cognitive impairment (CI) in patients from the two different groups with similar level of neurological damage
 
-etc. etc. etc.
+The goal of this study is to examine whether the differences in CI can be explained by depression, fatigue and brain atrophy
 
-### Patents
+Data analysis done in R, thesis written in RMarkdown
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+## Work experience
 
+`2015-2019`
+__iDNES.cz__
 
-## Occupation
+Contributing writer for Technet.cz
 
-`1600`
-__Royal Mint__, London
+Writing about science and technology: topics included cybersecurity, digital privacy, psychology, medicine
 
-- Warden
-- Minted coins
+`2016-2018`
+__Psychiatric Hospital Brno__
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+Art therapy – project SPOLU volunteer
 
+Group work with patients, creating activities and talking about them, delivering written reports to the staff
 
+`2019-PRESENT`
+__Red Hat Czech__
 
-<!-- ### Footer
+Technical writer
 
-Last updated: May 2013 -->
+Preparing and publishing technical documentation for Red Hat Enterprise Linux
 
+Workflow includes researching relevant information from the engineering team, preparing documentation using the AsciiDoc markup language and using Git version control software
 
+## Skills and hobbies
+
+__Computer use__
+
+Good general knowledge and experience on a user-level in Windows, macOS and some Linux distributions
+
+Statistics: standard analyses for psychological research, including factor analysis, in R and SPSS, basics of data visualization with ggplot2
+
+Markup languages such AsciiDoc and Markdown + RMarkdown, Git, basic Python
+
+__Writing__
+
+Both academic and non-academic, lots of experience in researching disparate topics from many sources and summarizing them, in English and Czech
+
+__Reading__
+
+Both fiction and non-fiction
+
+News – politics, current affairs, science and technology
+
+## Languages
+
+__Czech__ (mother tongue)
+__English__ (C2)
+__German__ (A2)
